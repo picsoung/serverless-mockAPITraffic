@@ -1,0 +1,18 @@
+[
+  {
+    "path":"/dev/apis/trade-insight/buy",
+    "method":"GET"
+  },
+  {
+    "path":"/dev/apis/trade-insight/sell",
+    "method":"GET"
+  },
+  {
+    "path":"/dev/apis/trade-insight/top",
+    "method":"POST",
+    "payload":{
+      "first_name":"John",
+      "last_name":"Doe"
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "mockAPItraffic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "author": "Nicolas Grenié - @picsoung",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
